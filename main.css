@@ -1,0 +1,46 @@
+body{
+    background-color: while;
+    overflow: visible;
+}
+.box-number{
+    margin-top: 200px;
+    margin-left: 300px;
+    display: block;
+    width: 60%;
+}
+.box-top{
+    background-color: black;
+    margin-bottom: 0;
+}
+.box-top p{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin-bottom: 0px;
+}
+.box-bottom{
+background-color: burlywood;
+}
+.box-bottom p{
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 20px ;
+    font-size: 30px;
+}
+.box-input{
+    padding-left: 200px;
+    padding-bottom: 50px;
+    display: flex;
+    
+}
+.box-bottom input{
+    width: 250px;
+    height: 20px ;
+    border-radius: 5px;
+}
+button{
+    height: 25px;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+
